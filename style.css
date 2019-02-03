@@ -1,0 +1,67 @@
+body{
+	background-image: url("img/background1.jpg");
+	background-size: cover;
+
+}
+#issa{
+	background-image: url("img/issaback.jpg");
+	background-size: cover;
+
+}
+h1 {
+	color: white;
+}
+#issa h1 {
+	color: black;
+}
+#issa p{
+	color: black;
+	line-height: 25px;
+	font-size:150%;
+	font-style: "Times New Roman" solid;
+
+}
+#issa a{
+	color: black;
+	border: 1px solid blue;
+	 
+}
+
+p{
+	color: white;
+	line-height: 20px;
+	font-weight: 150%;
+	font-style: "Times New Roman";
+
+}
+header {
+	display: flex;
+	/*background-color: #8bb3f4; */
+}
+
+a li {
+	display: inline;
+	color: white;
+}
+
+ol,ul,li {
+
+	color: white;
+}
+
+#navigation a {
+	border: 1px solid blue;
+	display: inline-block;
+	padding: 1px 20px;
+	margin: 0px 2px;
+
+}
+
+a{
+	color: white;
+	text-decoration-line: none; 
+}
+
+.navbar .navbar-expand-lg .navbar-light .bg-light a{
+	background-color: blue;
+}
